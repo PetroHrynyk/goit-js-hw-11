@@ -1,4 +1,4 @@
-export default function templateInfoCard({
+export default function makeTemplate({
   webformatURL,
   largeImageURL,
   tags,
